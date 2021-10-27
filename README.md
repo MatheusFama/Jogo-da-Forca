@@ -1,3 +1,5 @@
+Matheus Fama Machado de Sousa RA:110406615 
+
 A aplicação gráfica consiste num jogo da forca.
 
 1 - O jogo da forca é um jogo em que o jogador tem que acertar qual é a palavra proposta, 
